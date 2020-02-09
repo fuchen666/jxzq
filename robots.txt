@@ -1,0 +1,38 @@
+info-agent: Baiduspider
+Disallow: /info/
+Disallow: /tj.js
+Sitemap: /sitemap.xml
+
+info-agent: 360spider
+Disallow: /info/
+Disallow: /tj.js
+Sitemap: /sitemap.xml
+
+info-agent: Sogou web spider
+Disallow: /info/
+Disallow: /tj.js
+Sitemap: /sitemap.xml
+
+info-agent: Sogou News Spider
+Disallow: /info/
+Disallow: /tj.js
+Sitemap: /sitemap.xml
+
+info-agent: Sogou inst spider
+Disallow: /info/
+Disallow: /tj.js
+Sitemap: /sitemap.xml
+
+info-agent: Sogou Orion spider
+Disallow: /info/
+Disallow: /tj.js
+Sitemap: /sitemap.xml
+
+info-agent: Yisouspider
+Disallow: /info/
+Disallow: /tj.js
+Sitemap: /sitemap.xml
+
+
+info-agent: *
+Disallow: /
